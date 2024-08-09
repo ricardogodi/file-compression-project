@@ -1,4 +1,4 @@
-# File Compression Project
+# File Compression Project (Access to Full Repository Available Upon Request)
 
 ## Project Overview
 This project implements a Huffman encoding-based file compression system in C++. It utilizes a custom-developed hashmap for frequency analysis, integrated with priority queues for building Huffman trees, enabling efficient character encoding and decoding. The system supports both file compression and decompression, with optimal data packing achieved through bit-level manipulation.
@@ -58,6 +58,10 @@ You can use the following sample files for compression and testing purposes:
 - `MLK-Dream.txt`
 - `example.txt`
 - `medium.txt`
+
+## Code Availability
+
+Due to copyright restrictions, the complete source code is not included in this public repository. However, if you are interested in reviewing the full code, I can provide access to the entire private repository. Please contact me directly, and I will be happy to grant you permission to read the repository.
 
 ## Contributions
 - `hashmap.cpp`, `hashmap.h`: Developed by Ricardo Gonzalez
